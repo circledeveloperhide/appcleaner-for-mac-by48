@@ -1,4 +1,4 @@
-
+Enhance AppCleaner for macOS with AppCleaner for macOS automatic Helper: virtualization & cloud-sync, the #1 helper. Includes virtualization and cloud-sync for a smoother macOS
 
 
 
